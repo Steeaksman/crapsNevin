@@ -13,4 +13,4 @@ tableReport: Boolean
 })
 
 // make this available in our Node application.Last param is collection name.
-module.exports = mongoose.model('Casino' ,casinoSchema)
+module.exports = mongoose.model('Casino', casinoSchema)
